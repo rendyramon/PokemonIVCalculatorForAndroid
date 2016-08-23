@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/ming.zhang/Projects/Pokemon_IV_Calculator/libs/opencv/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/ming.zhang/Projects/Pokemon_IV_Calculator/libs/opencv/src/debug/jniLibs"/></dataSet></merger>

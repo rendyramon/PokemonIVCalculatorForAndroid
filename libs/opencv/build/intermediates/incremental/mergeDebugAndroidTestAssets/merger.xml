@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="/Users/ming.zhang/Projects/Pokemon_IV_Calculator/libs/opencv/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/Users/ming.zhang/Projects/Pokemon_IV_Calculator/libs/opencv/src/androidTest/assets"/><source path="/Users/ming.zhang/Projects/Pokemon_IV_Calculator/libs/opencv/build/generated/assets/shaders/androidTest/debug"/></dataSet></merger>
